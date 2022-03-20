@@ -2,6 +2,6 @@
 
 ## Integrantes
 
-- Aaron González Araya
-- Johan Jiménez López
-- Anthony Jiménez
+- Aaron González Araya (zSnails)
+- Johan Jiménez López (JohanJimenezL)
+- Anthony Jiménez (???)
