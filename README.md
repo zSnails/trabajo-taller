@@ -4,4 +4,4 @@
 
 - Aaron González Araya (zSnails)
 - Johan Jiménez López (JohanJimenezL)
-- Anthony Jiménez (???)
+- Anthony Jiménez (AntJimeneZ)
