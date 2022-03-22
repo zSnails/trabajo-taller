@@ -1,5 +1,5 @@
-fecha1 = int(input("Ingrese la primera fecha: "))
-fecha2 = int(input("Ingrese la segunda fecha: "))
+fecha1 = 19282512#int(input("Ingrese la primera fecha: "))
+fecha2 = 20031628#int(input("Ingrese la segunda fecha: "))
 ano_fech1 = fecha1//10000
 ano_fech2 = fecha2//10000
 dia_fecha1 = fecha1%100 

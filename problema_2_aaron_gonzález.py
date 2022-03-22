@@ -30,4 +30,4 @@ def gana_tic_tac_toe(f1, f2, f3):
 
 # el número debería ser convertido a binario aquí, en lugar de 1 0b001 y así
 # para que el código funcione, sino será código no funcional
-print(gana_tic_tac_toe(1,11,110))
+print(gana_tic_tac_toe(0b001,0b010,0b100))
